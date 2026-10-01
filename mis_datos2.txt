@@ -1,0 +1,1 @@
+Las herramientas de Big Data como Hadoop y Spark permiten el analisis distribuido en la nube.
