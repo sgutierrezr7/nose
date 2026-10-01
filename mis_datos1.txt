@@ -1,0 +1,1 @@
+El procesamiento de datos masivos en Big Data requiere arquitecturas distribuidas donde Python y Java son lenguajes muy utilizados en sistemas distribuidos y el modelo MapReduce permite procesar grandes volúmenes de datos en un cluster dividiendo las tareas en Mapper y Reducer para optimizar el tiempo de procesamiento con scripts en Python para Big Data.
